@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyAES
+namespace AESSteps
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace MyAES
 
 
 
-            //AESA();
+            AESA();
 
 
 
@@ -56,7 +56,7 @@ namespace MyAES
 
 
 
-            Console.WriteLine(AES.mixBlock(0x96, 0x04, true));
+            //Console.WriteLine(AES.mixBlock(0x96, 0x04, true));
 
             /*********************************************************************/
 

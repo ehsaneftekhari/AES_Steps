@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Globalization;
 
 
-namespace MyAES
+namespace AESSteps
 {
     class MyMath
     {

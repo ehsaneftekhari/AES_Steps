@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AES.cs" />
+    <Compile Include="AESSteps.cs" />
     <Compile Include="Matric.cs" />
     <Compile Include="MyMath.cs" />
     <Compile Include="Program.cs" />
