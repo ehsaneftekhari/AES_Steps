@@ -1,0 +1,7 @@
+E:\Ehsan\Desktop\MyAES\MyAES\bin\Debug\MyAES.exe.config
+E:\Ehsan\Desktop\MyAES\MyAES\bin\Debug\MyAES.exe
+E:\Ehsan\Desktop\MyAES\MyAES\bin\Debug\MyAES.pdb
+E:\Ehsan\Desktop\MyAES\MyAES\obj\Debug\MyAES.csprojAssemblyReference.cache
+E:\Ehsan\Desktop\MyAES\MyAES\obj\Debug\MyAES.csproj.CoreCompileInputs.cache
+E:\Ehsan\Desktop\MyAES\MyAES\obj\Debug\MyAES.exe
+E:\Ehsan\Desktop\MyAES\MyAES\obj\Debug\MyAES.pdb
